@@ -1,0 +1,5 @@
+{
+  "name": "Factory OEE Dashboard",
+  "description": "Real-time Factory Overall Equipment Effectiveness (OEE) monitoring system integrated with ThingsBoard IoT platform and SQLite for historical reporting.",
+  "requestFramePermissions": []
+}
